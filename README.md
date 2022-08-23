@@ -1,7 +1,7 @@
 # Movies Recommender System
 
-A movies recommender system using nlp based techniques called Word Embedding. It will calculate distance the most similar movies based on Cosine similarity.
-You can use others distance measurement techniques like Euclidean Distance or Manhattan Distance. You can also try out Document Embedding insted of Word Embedding.
+A movie recommender system using nlp-based techniques called Word Embedding. It will calculate the distance between the most similar movies based on Cosine similarity.
+You can use other distance measurement techniques like Euclidean Distance or Manhattan Distance. You can also try out Document Embedding instead of Word Embedding.
 
 <img src="">
 
